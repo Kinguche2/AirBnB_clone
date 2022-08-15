@@ -1,5 +1,5 @@
 # AirBnB Clone
-![HBnB Logo](./image/hbnb_logo.png)
+![HBnB Logo](./image/logo.png)
 
 
 ### Contents
