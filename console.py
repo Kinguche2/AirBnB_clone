@@ -171,6 +171,7 @@ class HBNBCommand(cmd.Cmd):
 
     def do_EOF(self, line):
         """ EOF command to exit the command interpreter """
+        print("")
         return True
 
 
