@@ -10,7 +10,7 @@ from models.amenity import Amenity
 from models.state import State
 from models.review import Review
 import json
-import shlex
+import shlex import split
 
 
 class HBNBCommand(cmd.Cmd):
